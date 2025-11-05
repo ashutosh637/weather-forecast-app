@@ -10,7 +10,7 @@ A beautiful, responsive weather application with elegant UI.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-🚀 Live Demo🔗 **Click Here:** skysutra.vercel.app
+🚀 Live Demo🔗 **Live Demo:** [Click here to view](https://skysutra.vercel.app/)
 
 
 ## ✨ Features
