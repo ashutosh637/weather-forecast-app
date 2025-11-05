@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const loading = document.getElementById('loading');
     
     // Default location
-    let currentLocation = 'New York';
+    let currentLocation = 'Bhopal';
     
     // Initialize the app
     getWeatherData(currentLocation);
